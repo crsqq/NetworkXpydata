@@ -1,3 +1,0 @@
- jupyter nbconvert --to slides slides-draft.ipynb --post serve
-
-# Add ?print-pdf to the query string as http://127.0.0.1:8000/your_talk.slides.html?print-pdf
